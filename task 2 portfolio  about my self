@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+     <section id="About", style="color:rgb(0, 0, 0);">
+        <h1 style="color:rgb(0, 30, 255);">About Me </h1>
+		<a href=""><img src="C:\Users\VAMSI\Pictures\VAMSI pics\IMG_20230711_223620.jpg"
+         alt="Sorry for Inconvenience Photo not available." width="20%" height="10%" align= "center-c"></a>
+        <p>My name is Nallamangala vamsi .I am from pothegunta.</p>
+		<p>I am  Currently pursuing my Bachelor's degree in the Stream of Computer Science and Engineering at Audisankara College of Engineering & Technology.</p>
+		<p>I belongs to a nuclear family.My strengths are Dedicated, Time management and Flexible.My short term goal is to get a job in the company and long term goal is to acheive a good position where i can build my career and help the organization too.My hobbies are Playing, Listening to music and Traveling.Lastly i am a quick learner and I beleive in learning from my past experiences and mistakes.</p>
+		
+    </section>
+</body>
+</html>
+ 
+ 
